@@ -17,4 +17,4 @@ A simple Python project to simulate logging temperature readings into a CSV file
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/temperature-logger.git
+   git clone https://github.com/<charun0881>/temperature-logger.git
